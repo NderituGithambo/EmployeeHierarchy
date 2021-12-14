@@ -1,0 +1,6 @@
+E:\Algorithms C#\Interview\Employee\Employee\bin\Debug\Employee.dll
+E:\Algorithms C#\Interview\Employee\Employee\bin\Debug\Employee.pdb
+E:\Algorithms C#\Interview\Employee\Employee\obj\Debug\Employees.csproj.AssemblyReference.cache
+E:\Algorithms C#\Interview\Employee\Employee\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+E:\Algorithms C#\Interview\Employee\Employee\obj\Debug\Employee.dll
+E:\Algorithms C#\Interview\Employee\Employee\obj\Debug\Employee.pdb
